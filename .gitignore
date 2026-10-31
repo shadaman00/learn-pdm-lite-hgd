@@ -1,0 +1,6 @@
+forge/qa/
+env_check.txt
+.DS_Store
+Thumbs.db
+*.tmp
+__pycache__/
